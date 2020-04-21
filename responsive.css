@@ -1,0 +1,22 @@
+
+@media (max-width: 900px) {
+
+    :root {
+        --site-width:750px
+    }
+    .big-blue-header {
+        background-color: hotpink;
+    }
+    .profile-photo {
+        height: 175px;
+        width: 175px;
+        top: 155px;
+    }
+
+
+
+
+
+
+
+}
